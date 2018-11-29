@@ -1,3 +1,7 @@
+Moving to gerrit. Please use
+https://github.com/wikimedia/research-article-recommender instead.
+
+
 # research-translation-recommendation-models
 scripts used in building models that suggest translation recommendations
 
